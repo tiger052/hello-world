@@ -6,5 +6,4 @@ using ICNRobotUI.Common;
 public class Hellow{
 	ㅅㅅㄷㄴㅅ
     11
-    3333
 }
